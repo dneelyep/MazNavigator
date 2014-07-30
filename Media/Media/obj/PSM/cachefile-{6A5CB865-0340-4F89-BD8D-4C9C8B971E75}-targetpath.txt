@@ -1,0 +1,6 @@
+Content\Audio\PlayerDeath.xnb
+Content\Audio\PlayerDeath.wma
+Content\Audio\MouseOver.xnb
+Content\Audio\MouseOver.wma
+Content\Audio\PlayerDeath.mp3
+Content\Audio\MouseOver.mp3

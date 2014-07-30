@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Audio\PlayerDeath.mp3</Source>
+      <Name>Audio\PlayerDeath</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>MGSongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DANIEL!\Documents\Visual Studio 2013\Projects\MazeNavigator\Media\Media\bin\PSM\Content\Audio\PlayerDeath.xnb</Output>
+      <Extra>C:\Users\DANIEL!\Documents\Visual Studio 2013\Projects\MazeNavigator\Media\Media\bin\PSM\Content\Audio\PlayerDeath.wma</Extra>
+      <Time>2014-07-27T23:08:38.3418437-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\MouseOver.mp3</Source>
+      <Name>Audio\MouseOver</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>MGSongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DANIEL!\Documents\Visual Studio 2013\Projects\MazeNavigator\Media\Media\bin\PSM\Content\Audio\MouseOver.xnb</Output>
+      <Extra>C:\Users\DANIEL!\Documents\Visual Studio 2013\Projects\MazeNavigator\Media\Media\bin\PSM\Content\Audio\MouseOver.wma</Extra>
+      <Time>2014-07-29T22:32:57.8379034-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{6A5CB865-0340-4F89-BD8D-4C9C8B971E75}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>PSM</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\DANIEL!\Documents\Visual Studio 2013\Projects\MazeNavigator\Media\MediaContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\DANIEL!\Documents\Visual Studio 2013\Projects\MazeNavigator\Media\Media\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\DANIEL!\Documents\Visual Studio 2013\Projects\MazeNavigator\Media\Media\obj\PSM\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\DANIEL!\Documents\Visual Studio 2013\Projects\MazeNavigator\Media\Media\bin\PSM\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\MSBuild\MonoGame\v3.0\MonoGameContentProcessors.dll</Key>
+        <Value>2014-04-05T17:56:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-07-08T04:17:53.2635899-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
